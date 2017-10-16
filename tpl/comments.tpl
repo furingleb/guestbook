@@ -1,0 +1,10 @@
+<tr>
+    <td>{Username}</td>
+    <td>{Email}</td>
+    <td>{homepage}</td>
+    <td>{text}</td>
+    <td>{tags}</td>
+    <td>{sdate}</td>
+    <td>{ipad}</td>
+    <td>{browser}</td>
+</tr>
